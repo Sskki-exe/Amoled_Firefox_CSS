@@ -1,0 +1,17 @@
+:root {
+    --tabpanel-background-color: black !important;
+    --tab-selected-outline-color: white !important;
+    --inactive-titlebar-opacity: 1 !important;
+    --toolbar-bgcolor: black !important;
+    --toolbar-field-focus-border-color: transparent !important;
+  }
+
+toolbar, toolbox {
+  background: black !important;
+  border: none !important; 
+  color: white !important;
+  }
+
+#urlbar-background {
+  background: black !important;
+  }
